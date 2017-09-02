@@ -4,7 +4,7 @@ A Sitecore package with a Post Deploy action to delete sample Items from the Con
 
 The following items have been configured to be deleted from the master database:
 
-`{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}    // /sitecore/content/Home`
+> `{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}    // /sitecore/content/Home`
 `{4D8A1C4D-1351-4DD1-A502-0660F01FEDC7}    // /sitecore/media library/Default Website`
 `{14030E9F-CE92-49C6-AD87-7D49B50E42EA}    // /sitecore/layout/Layouts/Sample Layout`
 `{1936B96E-DA1F-4A3A-8AAF-8C46268E2D84}    // /sitecore/layout/Renderings/Sample`
